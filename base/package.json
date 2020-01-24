@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-effectorjs",
+  "version": "1.0.1",
+  "keywords": [
+    "effector",
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The Effector template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kurzdor/cra-template-effector.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/Kurzdor/cra-template-effector/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
