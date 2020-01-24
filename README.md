@@ -11,6 +11,7 @@ via npm:
 npx create-react-app <project-name> --template effectorjs
 ```
 
+via yarn: 
 ```
 yarn create react-app <project-name> --template effectorjs
 ```
