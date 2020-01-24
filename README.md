@@ -1,6 +1,6 @@
 # cra-template-effectorjs
 
-The Effector JS/TS templates for bootstraping [Create React App](https://github.com/facebook/create-react-app) apps.
+The [Effector](https://effector.now.sh) JS/TS templates for bootstraping [Create React App](https://github.com/facebook/create-react-app) apps.
 
 ! Typescript template WIP
 
