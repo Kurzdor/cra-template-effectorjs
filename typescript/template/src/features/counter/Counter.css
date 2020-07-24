@@ -1,0 +1,36 @@
+.Counter {
+  display: flex;
+  align-items: center;
+  color: #ff8c00;
+}
+
+.Counter-label {
+  width: 70px;
+  font-size: 48px;
+}
+
+.Counter-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  border: none;
+  border: 2px solid transparent;
+  padding: 0;
+  color: #ff8c00;
+  font-size: 32px;
+  background: none;
+  cursor: pointer;
+  outline: none;
+  appearance: none;
+}
+
+.Counter-button:focus {
+  border: 2px solid rgba(255, 140, 0, 0.4);
+}
+
+.Counter-button:active {
+  background-color: rgba(255, 140, 0, 0.1);
+}

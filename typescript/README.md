@@ -1,17 +1,25 @@
-# cra-template-typescript
+# cra-template-effectorjs-ts
 
-This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
+The Effector template with TypeScript support for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template typescript` when creating a new app.
+To use this template, add `--template effectorjs-ts` when creating a new app.
 
-For example:
+```npm:```
 
-```sh
-npx create-react-app my-app --template typescript
+```bash
+npx create-react-app <project-name> --template effectorjs-ts
+```
 
-# or
+```yarn:```
 
-yarn create react-app my-app --template typescript
+```bash
+yarn create react-app <project-name> --template effectorjs-ts
+```
+
+```pnpm:```
+
+```bash
+pnpx create-react-app <project-name> --template effectorjs-ts
 ```
 
 For more information, please refer to:
