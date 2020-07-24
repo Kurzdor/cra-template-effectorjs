@@ -6,25 +6,19 @@ The [Effector](https://effector.now.sh) JS/TS templates for bootstraping [Create
 
 ## Install
 
-```
-via npm:
-```
+```via npm:```
 
 ```bash
 npx create-react-app <project-name> --template effectorjs
 ```
 
-```
-via yarn:
-```
+```via yarn:```
 
 ```bash
 yarn create react-app <project-name> --template effectorjs
 ```
 
-```
-via pnpm:
-```
+```via pnpm:```
 
 ```bash
 pnpx create-react-app <project-name> --template effectorjs
