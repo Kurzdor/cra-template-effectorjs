@@ -11,11 +11,12 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kurzdor/cra-template-effector.git"
+    "url": "https://github.com/Kurzdor/cra-template-effector.git",
+    "directory": "base"
   },
   "license": "MIT",
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "bugs": {
     "url": "https://github.com/Kurzdor/cra-template-effector/issues"
