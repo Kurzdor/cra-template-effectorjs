@@ -1,7 +1,7 @@
-import React from 'react';
-import { Counter } from './features/counter/';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Counter } from './features/counter'
+import logo from "./logo.svg";
+import "./App.css";
 
 export const App: React.FC = () => {
   return (
@@ -14,9 +14,10 @@ export const App: React.FC = () => {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://effector.now.sh/"
           target="_blank"
-          rel="noopener noreferrer">
+          rel="noopener noreferrer"
+        >
           Learn Effector
         </a>
       </header>
