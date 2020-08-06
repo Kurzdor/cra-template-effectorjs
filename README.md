@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This package is deprecated in favor of https://github.com/effector/cra-template-effector.
+
 # ☄️ cra-template-effectorjs
 
 The [Effector](https://effector.now.sh) vanilla JavaScript and TypeScript templates for bootstraping [Create React App](https://github.com/facebook/create-react-app) apps.
